@@ -1,4 +1,40 @@
+## Details
+This is a landing page for a restaurant made using React JS, TypeScript and Tailwind CSS
+
+Checkout [live-demo](https://react-js-restaurant-landing-page.vercel.app/) 
+
+Kindly star and fork the repo to make any contributions
+
+## Screenshots 
+# Home
+![Home](https://github.com/yehnda/ReactJS-restaurant-landing-page/blob/main/screenshots/home.png)
+
+# Home
+![Home](https://github.com/yehnda/ReactJS-restaurant-landing-page/blob/main/screenshots/3.png)
+
+# Details
+![Details](https://github.com/yehnda/ReactJS-restaurant-landing-page/blob/main/screenshots/details.png)
+
+# Testimonials
+![Testimonials](https://github.com/yehnda/ReactJS-restaurant-landing-page/blob/main/screenshots/5.png)
+
+
+![Testimonials](https://github.com/yehnda/ReactJS-restaurant-landing-page/blob/main/screenshots/6.png)
+
+# Footer
+![Footer](https://github.com/yehnda/ReactJS-restaurant-landing-page/blob/main/screenshots/footer.png)
+
+
+
 # Getting Started with Create React App
+
+First, install the necessary dependencies:
+
+```bash
+npm install
+# or
+yarn install
+```
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
